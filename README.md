@@ -1,8 +1,7 @@
 - 👋 Hi, I’m aarushmanica
 - 👀 I’m interested in cricket, art/drawing and mathematics
-- 🌱 I’m currently learning Java, Javascript, Python
+- 🌱 I’m currently learning Java, Javascript, Python and other stuff I'm too lazy to mention
 
-- 📫 How to reach me via gmail or Youtube(SuperiorRush)
 
 <!---
 aarushmanica/aarushmanica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
